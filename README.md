@@ -35,13 +35,13 @@ Frontend
 **Instalação**
 
 Instalar dependências
-npm install
+**npm install**
 
 Rodar em desenvolvimento
-npm run dev
+**npm run dev**
 
 Build para produção
-npm run build
+**npm run build**
 
 Preview da build
-npm run preview
+**npm run preview**
