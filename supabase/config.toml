@@ -1,0 +1,4 @@
+project_id = "kmgrmpjgcoyukwcabgcf"
+
+[functions.populate-titles]
+verify_jwt = false
