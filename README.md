@@ -34,14 +34,14 @@ Frontend
 
 **Instalação**
 
-# Instalar dependências
+Instalar dependências
 npm install
 
-# Rodar em desenvolvimento
+Rodar em desenvolvimento
 npm run dev
 
-# Build para produção
+Build para produção
 npm run build
 
-# Preview da build
+Preview da build
 npm run preview
