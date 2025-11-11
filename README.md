@@ -30,3 +30,18 @@ Frontend
 
  API Externa
 - **TMDB API** - The Movie Database para dados de filmes e séries
+
+
+**Instalação**
+
+# Instalar dependências
+npm install
+
+# Rodar em desenvolvimento
+npm run dev
+
+# Build para produção
+npm run build
+
+# Preview da build
+npm run preview
